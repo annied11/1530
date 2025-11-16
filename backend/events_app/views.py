@@ -16,7 +16,11 @@ def load_events():
 
 def events_api(request):
     events = load_events()
-    return JsonResponse(events, safe=False)
+    response = JsonResponse(events, safe=False)
+    response["Access-Control-Allow-Origin"] = "*"
+    response["Access-Control-Allow-Methods"] = "GET, OPTIONS"
+    response["Vary"] = "Origin"
+    return response
 
 
 def event_list_page(request):

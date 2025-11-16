@@ -13,18 +13,31 @@
     <ul id="events"></ul>
   </div>
   <script>
+    async function fetchFromOrigins(origins) {
+      for (const origin of origins) {
+        try {
+          const response = await fetch(`${origin}/events/`);
+          if (!response.ok) continue;
+          return response.json();
+        } catch {
+          // try next origin
+        }
+      }
+      throw new Error('No backend origins responded.');
+    }
+
     async function loadEvents() {
       const status = document.getElementById('status');
       const list = document.getElementById('events');
-      const backendOrigin = window.location.origin.startsWith('http')
-        ? window.location.origin
-        : 'http://localhost:8000';
+      const origins = [];
+
+      if (window.location.origin && window.location.origin.startsWith('http')) {
+        origins.push(window.location.origin);
+      }
+      origins.push('http://127.0.0.1:8000', 'http://localhost:8000');
+
       try {
-        const response = await fetch(`${backendOrigin}/events/`);
-        if (!response.ok) {
-          throw new Error('Failed to load events.');
-        }
-        const events = await response.json();
+        const events = await fetchFromOrigins(origins);
         if (!events.length) {
           status.textContent = 'No events found.';
           return;
@@ -53,7 +66,7 @@
         });
       } catch (error) {
         console.error(error);
-        status.textContent = 'Unable to load events. Is the backend running on port 8000?';
+        status.textContent = 'Unable to load events. Make sure the Django server is running on 127.0.0.1:8000 or localhost:8000.';
       }
     }
 
