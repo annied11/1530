@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pitt Club Events Viewer</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <h1>Pitt Club Events</h1>
+    <p id="status">Loading events…</p>
+    <ul id="events"></ul>
+  </div>
+  <script>
+    async function loadEvents() {
+      const status = document.getElementById('status');
+      const list = document.getElementById('events');
+      const backendOrigin = window.location.origin.startsWith('http')
+        ? window.location.origin
+        : 'http://localhost:8000';
+      try {
+        const response = await fetch(`${backendOrigin}/events/`);
+        if (!response.ok) {
+          throw new Error('Failed to load events.');
+        }
+        const events = await response.json();
+        if (!events.length) {
+          status.textContent = 'No events found.';
+          return;
+        }
+        status.textContent = `${events.length} event${events.length === 1 ? '' : 's'} available:`;
+        events.forEach((event) => {
+          const formattedTime = new Intl.DateTimeFormat([], {
+            dateStyle: 'medium',
+            timeStyle: 'short',
+          }).format(new Date(event.date));
+          const item = document.createElement('li');
+          item.innerHTML = `
+            <details>
+              <summary>
+                <span class="title">${event.name}</span>
+                <time class="event-time">${formattedTime}</time>
+              </summary>
+              <div class="details-body">
+                <p><strong>Organization:</strong> ${event.organization}</p>
+                <p><strong>Location:</strong> ${event.location}</p>
+                <p><strong>Category:</strong> ${event.category}</p>
+              </div>
+            </details>
+          `;
+          list.appendChild(item);
+        });
+      } catch (error) {
+        console.error(error);
+        status.textContent = 'Unable to load events. Is the backend running on port 8000?';
+      }
+    }
+
+    loadEvents();
+  </script>
+</body>
+</html>

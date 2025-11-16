@@ -1,0 +1,40 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pitt Club Events</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5V9e+M0jlfIDPfh5OfVd8tbtEt1jQjryS0bT/wAJBPDHow==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="{% static 'events_app/styles.css' %}" />
+</head>
+<body>
+  <div class="page">
+    <div class="card">
+      <h1>Pitt Club Events</h1>
+
+      {% if events %}
+        <ul class="events-list">
+          {% for e in events %}
+            <li>
+              <details>
+                <summary>
+                  <span class="summary-title">{{ e.name }}</span>
+                  <time class="event-time">{{ e.date }}</time>
+                </summary>
+                <div class="details-body">
+                  <p><strong>Organization:</strong> {{ e.organization }}</p>
+                  <p><strong>Location:</strong> {{ e.location }}</p>
+                  <p><strong>Category:</strong> {{ e.category }}</p>
+                </div>
+              </details>
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p>No events found.</p>
+      {% endif %}
+    </div>
+  </div>
+</body>
+</html>

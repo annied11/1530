@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "CS Club Kickoff",
+    "organization": "Computer Science Club",
+    "location": "Sennott Square 6110",
+    "date": "2025-09-10T18:00:00",
+    "category": "Academic"
+  },
+  {
+    "id": 2,
+    "name": "Pitt Outdoors Hiking Trip",
+    "organization": "Outdoors Club",
+    "location": "Meet at William Pitt Union",
+    "date": "2025-09-12T09:00:00",
+    "category": "Recreation"
+  }
+]
