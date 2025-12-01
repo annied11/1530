@@ -1,18 +1,546 @@
 [
   {
-    "id": 1,
-    "name": "CS Club Kickoff",
-    "organization": "Computer Science Club",
-    "location": "Sennott Square 6110",
-    "date": "2025-09-10T18:00:00",
+    "id": 30,
+    "name": "Bible Study",
+    "organization": "Ignite : InterVarsity's Black Student Movement",
+    "location": "TBD",
+    "date": "2025-12-02T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 35,
+    "name": "Arts Committee Weekly Meeting",
+    "organization": "Pitt Program Council",
+    "location": "William Pitt Union",
+    "date": "2025-12-02T00:00:00",
+    "category": "Social"
+  },
+  {
+    "id": 41,
+    "name": "PASN Destress Before the Test",
+    "organization": "Pitt Alumni Student Programs",
+    "location": "TBD",
+    "date": "2025-12-02T17:00:00",
+    "category": "Pitt Alumni Student Programs"
+  },
+  {
+    "id": 22,
+    "name": "Bible Study",
+    "organization": "Christians on Campus",
+    "location": "WPU 540, 3959 Fifth Ave, Pittsburgh, PA 15260, United States",
+    "date": "2025-12-02T22:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 24,
+    "name": "Last GCC Meeting",
+    "organization": "Genetic Counseling Club",
+    "location": "WPU Room 540",
+    "date": "2025-12-03T00:30:00",
     "category": "Academic"
   },
   {
+    "id": 38,
+    "name": "Make Lunch with OCSS",
+    "organization": "Off Campus Student Services",
+    "location": "Bigelow Lawn",
+    "date": "2025-12-03T15:45:00",
+    "category": "Social"
+  },
+  {
+    "id": 27,
+    "name": "Weekly Meetings (COPY)",
+    "organization": "ARTificial",
+    "location": "David Lawrence Hall Room 203",
+    "date": "2025-12-03T23:00:00",
+    "category": "Arts Program"
+  },
+  {
+    "id": 29,
+    "name": "MAPS Study Sessions",
+    "organization": "Minority Association of Pre-Medical Students",
+    "location": "Hillman Library",
+    "date": "2025-12-04T00:00:00",
+    "category": "Educational/Awareness"
+  },
+  {
+    "id": 1,
+    "name": "AMWA GBM",
+    "organization": "American Medical Women's Association ",
+    "location": "David Lawrence 232",
+    "date": "2025-12-04T02:00:00",
+    "category": "Meeting"
+  },
+  {
+    "id": 23,
+    "name": "Craft and Connect",
+    "organization": "Off Campus Student Services",
+    "location": "Commuter Lounge (in Nordy's Place)",
+    "date": "2025-12-04T16:30:00",
+    "category": "Social"
+  },
+  {
     "id": 2,
-    "name": "Pitt Outdoors Hiking Trip",
-    "organization": "Outdoors Club",
-    "location": "Meet at William Pitt Union",
-    "date": "2025-09-12T09:00:00",
-    "category": "Recreation"
+    "name": "Paint n' Sip",
+    "organization": "Off Campus Student Services",
+    "location": "WPU Dining Room B (Floor 1)",
+    "date": "2025-12-04T22:30:00",
+    "category": "Social"
+  },
+  {
+    "id": 40,
+    "name": "Zoo La-La Lights! A Trip to the Pittsburgh Zoo",
+    "organization": "Pitt Program Council",
+    "location": "Pittsburgh Zoo",
+    "date": "2025-12-04T23:00:00",
+    "category": "Social"
+  },
+  {
+    "id": 36,
+    "name": "Unwind Club General Meeting 12/4",
+    "organization": "Unwind: The Board Game Club",
+    "location": "Nordy's Lounge in the William Pitt Union Basement",
+    "date": "2025-12-05T00:00:00",
+    "category": "Meeting"
+  },
+  {
+    "id": 68,
+    "name": "PNM Movie Night",
+    "organization": "Collegiate Panhellenic Association",
+    "location": "WPU Assembly Room",
+    "date": "2025-12-05T02:00:00",
+    "category": "Recruitment"
+  },
+  {
+    "id": 31,
+    "name": "West Oakland Trash Clean-Up",
+    "organization": "Off Campus Student Services",
+    "location": "Trees Hall, We will meet in the lawn outside of the building, on the corner of Allequippa and Robinson.",
+    "date": "2025-12-05T15:30:00",
+    "category": "Community Service"
+  },
+  {
+    "id": 21,
+    "name": "Friday Night Fellowship",
+    "organization": "Christians on Campus",
+    "location": "DM us on Instagram for the location",
+    "date": "2025-12-05T23:30:00",
+    "category": "Spirit"
+  },
+  {
+    "id": 25,
+    "name": "Friday Game Nights",
+    "organization": "Urban Gaming Club",
+    "location": "5601 Posvar, United States",
+    "date": "2025-12-06T00:30:00",
+    "category": "Meeting"
+  },
+  {
+    "id": 33,
+    "name": "Oakcliffe Trash Clean-up",
+    "organization": "Off Campus Student Services",
+    "location": "Craft Ave & Niagra St, Oakcliffe Community Playground",
+    "date": "2025-12-06T15:00:00",
+    "category": "Community Service"
+  },
+  {
+    "id": 65,
+    "name": "Stretching and Mobility Class",
+    "organization": "Fitness and Bodybuilding Club at Pitt",
+    "location": "RWC (room TBA)",
+    "date": "2025-12-06T17:00:00",
+    "category": "Athletic/Sports"
+  },
+  {
+    "id": 39,
+    "name": "\"Winterball\" Final Paintball Event",
+    "organization": "Paintball Club at Pitt",
+    "location": "Pittsburgh Paintball Park",
+    "date": "2025-12-06T18:00:00",
+    "category": "Athletic/Sports"
+  },
+  {
+    "id": 32,
+    "name": "South Oakland Trash Clean Up",
+    "organization": "Off Campus Student Services",
+    "location": "Zulema Parklet",
+    "date": "2025-12-07T15:00:00",
+    "category": "Community Service"
+  },
+  {
+    "id": 34,
+    "name": "Central Oakland Trash Clean-Up",
+    "organization": "Off Campus Student Services",
+    "location": "Zulema Parklet",
+    "date": "2025-12-07T15:00:00",
+    "category": "Community Service"
+  },
+  {
+    "id": 3,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2025-12-07T16:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 67,
+    "name": "Group Training (RWC)",
+    "organization": "Fitness and Bodybuilding Club at Pitt",
+    "location": "Recreation and Wellness Center (RWC)",
+    "date": "2025-12-07T19:00:00",
+    "category": "Athletic/Sports"
+  },
+  {
+    "id": 66,
+    "name": "Posing Session (RWC)",
+    "organization": "Fitness and Bodybuilding Club at Pitt",
+    "location": "RWC Room 819",
+    "date": "2025-12-07T21:00:00",
+    "category": "Athletic/Sports"
+  },
+  {
+    "id": 45,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2025-12-08T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 28,
+    "name": "Weekly Meetings (COPY)",
+    "organization": "ARTificial",
+    "location": "David Lawrence Hall Room 203",
+    "date": "2025-12-10T23:00:00",
+    "category": "Arts Program"
+  },
+  {
+    "id": 26,
+    "name": "Friday Game Nights",
+    "organization": "Urban Gaming Club",
+    "location": "5601 Posvar, United States",
+    "date": "2025-12-13T00:30:00",
+    "category": "Meeting"
+  },
+  {
+    "id": 4,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2025-12-14T16:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 46,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2025-12-15T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 5,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-01-11T16:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 47,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-01-12T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 6,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-01-18T16:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 48,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-01-19T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 42,
+    "name": "Pitt Mix",
+    "organization": "Pitt Alumni Student Programs",
+    "location": "Alumni Hall Connolly Ballroom",
+    "date": "2026-01-21T23:00:00",
+    "category": "Pitt Alumni Student Programs"
+  },
+  {
+    "id": 43,
+    "name": "Pitt Mix",
+    "organization": "Pitt Alumni Student Programs",
+    "location": "Alumni Hall Connolly Ballroom",
+    "date": "2026-01-21T23:00:00",
+    "category": "Pitt Alumni Student Programs"
+  },
+  {
+    "id": 7,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-01-25T16:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 49,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-01-26T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 44,
+    "name": "Pitt Law Gala-The PLISF Benefit: 39th Annual Auction",
+    "organization": "Pitt Legal Income Sharing Foundation",
+    "location": "University Club",
+    "date": "2026-01-29T23:00:00",
+    "category": "Fundraiser"
+  },
+  {
+    "id": 8,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-02-01T16:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 50,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-02-02T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 9,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-02-08T16:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 51,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-02-09T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 10,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-02-15T16:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 52,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-02-16T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 64,
+    "name": "Pittsburgh Collegiate Classic",
+    "organization": "Fitness and Bodybuilding Club at Pitt",
+    "location": "TBD",
+    "date": "2026-02-21T19:00:00",
+    "category": "Athletic/Sports"
+  },
+  {
+    "id": 11,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-02-22T16:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 53,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-02-23T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 12,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-03-01T16:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 54,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-03-02T00:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 13,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-03-08T15:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 55,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-03-08T23:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 14,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-03-15T15:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 56,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-03-15T23:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 37,
+    "name": "REEESNe Conference 2026",
+    "organization": "Graduate Organization for the Study of Europe and Central Asia",
+    "location": "TBD",
+    "date": "2026-03-20T13:00:00",
+    "category": "Academic"
+  },
+  {
+    "id": 15,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-03-22T15:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 57,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-03-22T23:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 16,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-03-29T15:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 58,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-03-29T23:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 17,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-04-05T15:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 59,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-04-05T23:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 18,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-04-12T15:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 60,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-04-12T23:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 19,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-04-19T15:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 61,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-04-19T23:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 20,
+    "name": "Catholic Mass @ Heinz Chapel",
+    "organization": "Catholic Newman Club",
+    "location": "Heinz Chapel, United States",
+    "date": "2026-04-26T15:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 62,
+    "name": "Newman Night",
+    "organization": "Catholic Newman Club",
+    "location": "St. Pauls Cathedral Basement",
+    "date": "2026-04-26T23:00:00",
+    "category": "Spiritual"
+  },
+  {
+    "id": 63,
+    "name": "Event for Guest Registration",
+    "organization": "Catholic Newman Club",
+    "location": "TBD",
+    "date": "2031-08-15T17:00:00",
+    "category": "Meeting"
   }
 ]
