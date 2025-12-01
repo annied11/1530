@@ -1,61 +1,47 @@
-import json
-from pathlib import Path
 from django.http import JsonResponse
 from django.shortcuts import render
 
-BASE_DIR = Path(__file__).resolve().parent.parent
-DATA_FILE = BASE_DIR.parent / "data" / "events_sample.json"
+from .models import Event   # <-- NEW: import your model
 
 
 def load_events():
-    """Load events safely with error handling."""
-    # Missing file
-    if not DATA_FILE.exists():
+    """Load events from the database with basic error handling."""
+
+    qs = Event.objects.select_related("organization").order_by("date")
+
+    # Empty DB – mimic your previous error style
+    if not qs.exists():
         return {
-            "error": "Event data file not found.",
-            "events": []
+            "error": "No events available in the database. Did you run the import?",
+            "events": [],
         }
 
-    try:
-        with DATA_FILE.open() as fp:
-            data = json.load(fp)
+    events = []
+    for event in qs:
+        events.append({
+            "id": event.id,
+            "name": event.name,
+            "organization": event.organization.name if hasattr(event, "organization") else "",
+            "location": event.location,
+            # Match your JSON datetime format "2025-09-10T18:00:00"
+            "date": event.date.isoformat(timespec="seconds") if event.date else None,
+            "category": event.category,
+        })
 
-        # Improper JSON structure
-        if not isinstance(data, list):
-            return {
-                "error": "Event data is improperly formatted.",
-                "events": []
-            }
-
-        # Empty list
-        if len(data) == 0:
-            return {
-                "error": "No events available.",
-                "events": []
-            }
-
-        # Success
-        return {
-            "events": data
-        }
-
-    except json.JSONDecodeError:
-        return {
-            "error": "JSON file could not be parsed.",
-            "events": []
-        }
+    return {"events": events}
 
 
 def events_api(request):
-    """Return JSON API response."""
+    """Return JSON API response, now backed by the DB."""
     result = load_events()
 
-    # If error, return structured error
-    if "error" in result:
+    if "error" in result and not result["events"]:
+        # Keep your old pattern: errors → 500 with a message
         response = JsonResponse(result, status=500)
     else:
         response = JsonResponse(result["events"], safe=False)
 
+    # CORS headers as before
     response["Access-Control-Allow-Origin"] = "*"
     response["Access-Control-Allow-Methods"] = "GET, OPTIONS"
     response["Vary"] = "Origin"
@@ -66,10 +52,10 @@ def events_api(request):
 def event_list_page(request):
     """Render template for the HTML page."""
     result = load_events()
-    events = result["events"] if "events" in result else []
+    events = result.get("events", [])
     error = result.get("error")
 
     return render(request, "events_app/index.html", {
         "events": events,
-        "error": error
+        "error": error,
     })

@@ -1,0 +1,1199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:CAMPUSGROUPS
+X-WR-CALNAME:CampusGroups
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+DTSTAMP:20251201T011143
+LAST-MODIFIED:20250819T170818
+CREATED:20250707T120000
+SEQUENCE:4
+ORGANIZER;CN="American Medical Women's Association ":https://experience.pitt.edu/amwa/
+CONTACT:https://experience.pitt.edu/amwa/rsvp_boot?id=386212#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:AMWA
+CATEGORIES;X-CG-CATEGORY=event_type:Meeting
+DTSTART:20251204T020000Z
+DTEND:20251204T033000Z
+UID:594cff2b1d32081c6d2cc205b296178d772025_1:19:19_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:AMWA GBM
+LOCATION: David Lawrence 232
+URL:https://experience.pitt.edu/rsvp?id=386212
+DESCRIPTION:AMWA GBM (event details will be posted closer to the event date)\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386212
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250910T105150
+CREATED:20250731T120000
+SEQUENCE:9
+ORGANIZER;CN="Off Campus Student Services":https://experience.pitt.edu/OCSS/
+CONTACT:https://experience.pitt.edu/OCSS/rsvp_boot?id=386469#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:OCSS
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:Well-Being,Social,Pitt Pride,Health and Wellness,Food,Commuter,Arts
+DTSTART:20251204T223000Z
+DTEND:20251205T000000Z
+UID:81b9e3242689065b3d965f34ca9cea147312025_10:21:37_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Paint n' Sip
+LOCATION: WPU Dining Room B (Floor 1)
+URL:https://experience.pitt.edu/rsvp?id=386469
+DESCRIPTION:Come create some art and sip on some delicious mocktails with Off-Campus Student Services! Guided painting instruction, painting supplies, and refreshments provided. \n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386469
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386494#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20251207T160000Z
+DTEND:20251207T170000Z
+UID:888281226906786bbc36c4460ff8cced832025_11:54:55_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386494
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386494
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386495#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20251214T160000Z
+DTEND:20251214T170000Z
+UID:27d1b0806be60ed9cd0be3dd2ac3f7c1832025_11:54:56_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386495
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386495
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386496#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260111T160000Z
+DTEND:20260111T170000Z
+UID:f365af98a99cb3119b167cd4f19f716d832025_11:54:57_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386496
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386496
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386497#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260118T160000Z
+DTEND:20260118T170000Z
+UID:e99d187454b01ab54888d8ec34e76cea832025_11:54:59_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386497
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386497
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386498#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260125T160000Z
+DTEND:20260125T170000Z
+UID:7e89396d5749593ddca37e70287756c6832025_11:55:00_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386498
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386498
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386499#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260201T160000Z
+DTEND:20260201T170000Z
+UID:7ae207085f3745ef55236042b8267b18832025_11:55:01_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386499
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386499
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386500#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260208T160000Z
+DTEND:20260208T170000Z
+UID:4ec5bab45ca383db228859d4647d52f0832025_11:55:03_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386500
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386500
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386501#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260215T160000Z
+DTEND:20260215T170000Z
+UID:db853f95084776a76d4f89ec4fa4e6d0832025_11:55:04_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386501
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386501
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386502#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260222T160000Z
+DTEND:20260222T170000Z
+UID:d4dbe8f56a6bf44ad91683728e4580a2832025_11:55:06_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386502
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386502
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386503#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260301T160000Z
+DTEND:20260301T170000Z
+UID:f854b501ec8f98629f1134c8fa465810832025_11:55:07_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386503
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386503
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386504#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260308T150000Z
+DTEND:20260308T160000Z
+UID:56a5f25fc5b5641979629da49da4fb8b832025_11:55:09_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386504
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386504
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386505#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260315T150000Z
+DTEND:20260315T160000Z
+UID:73367e2fe982a7dfce88c9ae56d84df6832025_11:55:10_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386505
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386505
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386506#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260322T150000Z
+DTEND:20260322T160000Z
+UID:b6ce7b7a7db0161fbc80562b28fccb18832025_11:55:11_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386506
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386506
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011144
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386507#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260329T150000Z
+DTEND:20260329T160000Z
+UID:c7e47ff3fa1196b0f6f708f17b5fd6c8832025_11:55:13_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386507
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386507
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386508#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260405T150000Z
+DTEND:20260405T160000Z
+UID:8eba072418b5876c44a8f24fe4260fcc832025_11:55:14_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386508
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386508
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386509#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260412T150000Z
+DTEND:20260412T160000Z
+UID:b94e009da0619e1d3cc2528e21fc45df832025_11:55:16_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386509
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386509
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386510#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260419T150000Z
+DTEND:20260419T160000Z
+UID:ebc458d7d0f4742f125f3919d6106ac5832025_11:55:17_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386510
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386510
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250803T115520
+CREATED:20250803T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=386511#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20260426T150000Z
+DTEND:20260426T160000Z
+UID:a1621a36d71853c2628ab8c2907e218e832025_11:55:18_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Catholic Mass @ Heinz Chapel
+LOCATION:Heinz Chapel, United States
+URL:https://experience.pitt.edu/rsvp?id=386511
+DESCRIPTION:Every Sunday at 11am Mass is offered for all college students in Pitt's Heinz Chapel\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386511
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250820T155730
+CREATED:20250820T120000
+SEQUENCE:1
+ORGANIZER;CN="Christians on Campus":https://experience.pitt.edu/chistians/
+CONTACT:https://experience.pitt.edu/chistians/rsvp_boot?id=386918#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CHISTIANS
+CATEGORIES;X-CG-CATEGORY=event_type:Spirit
+DTSTART:20251205T233000Z
+DTEND:20251206T013000Z
+UID:327bef087f0295db5a14e4fc6644d1a28202025_3:57:28_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Friday Night Fellowship
+LOCATION:DM us on Instagram for the location
+URL:https://experience.pitt.edu/rsvp?id=386918
+DESCRIPTION:Join us for a night of fellowship, dinner, and hymns with both University of Pittsburgh and CMU!\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=386918
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250824T171206
+CREATED:20250824T120000
+SEQUENCE:2
+ORGANIZER;CN="Christians on Campus":https://experience.pitt.edu/chistians/
+CONTACT:https://experience.pitt.edu/chistians/rsvp_boot?id=387053#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CHISTIANS
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20251202T220000Z
+DTEND:20251202T230000Z
+UID:3013fc9a1e88d438b359c8704e54bf2f8242025_5:08:17_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Bible Study
+LOCATION:WPU 540, 3959 Fifth Ave, Pittsburgh, PA 15260, United States
+URL:https://experience.pitt.edu/rsvp?id=387053
+DESCRIPTION:Join us as we cover a book of the Bible and have fellowhship!\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=387053
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20251113T115524
+CREATED:20250825T120000
+SEQUENCE:3
+ORGANIZER;CN="Off Campus Student Services":https://experience.pitt.edu/OCSS/
+CONTACT:https://experience.pitt.edu/OCSS/rsvp_boot?id=387227#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:OCSS
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:Arts,Commuter
+DTSTART:20251204T163000Z
+DTEND:20251204T180000Z
+UID:6484db9daf965c5898ad7b9c38cbff228252025_2:59:48_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Craft and Connect
+LOCATION: Commuter Lounge (in Nordy's Place)
+URL:https://experience.pitt.edu/rsvp?id=387227
+DESCRIPTION:A monthly program revolved around giving commuter students arts and crafts to take with them.\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=387227
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250828T170502
+CREATED:20250828T120000
+SEQUENCE:1
+ORGANIZER;CN="Genetic Counseling Club":https://experience.pitt.edu/gcc/
+CONTACT:https://experience.pitt.edu/gcc/rsvp_boot?id=387402#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:GCC
+CATEGORIES;X-CG-CATEGORY=event_type:Academic
+DTSTART:20251203T003000Z
+DTEND:20251203T013000Z
+UID:6a895e6dc111e6c0aad95ae0553764ca8282025_5:04:23_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Last GCC Meeting
+LOCATION: WPU Room 540
+URL:https://experience.pitt.edu/rsvp?id=387402
+DESCRIPTION:Details TBD - note room change!\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=387402
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250831T120755
+CREATED:20250831T120000
+SEQUENCE:1
+ORGANIZER;CN="Urban Gaming Club":https://experience.pitt.edu/ugc/
+CONTACT:https://experience.pitt.edu/ugc/rsvp_boot?id=387494#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:UGC
+CATEGORIES;X-CG-CATEGORY=event_type:Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Recreation
+DTSTART:20251206T003000Z
+DTEND:20251206T023000Z
+UID:93277113059d9da03f7518a69cc2cb478312025_12:07:54_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Friday Game Nights
+LOCATION:5601 Posvar, United States
+URL:https://experience.pitt.edu/rsvp?id=387494
+DESCRIPTION:Come to 5601 Posvar every Friday to play all kinds of games. We have a large collection, but you are always welcome to bring your own as well. Club favorites include Coup, Monopoly, Mario Kart, Smash Bros, Blood on the Clocktower, and many more!\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=387494
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250831T120755
+CREATED:20250831T120000
+SEQUENCE:1
+ORGANIZER;CN="Urban Gaming Club":https://experience.pitt.edu/ugc/
+CONTACT:https://experience.pitt.edu/ugc/rsvp_boot?id=387495#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:UGC
+CATEGORIES;X-CG-CATEGORY=event_type:Meeting
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Recreation
+DTSTART:20251213T003000Z
+DTEND:20251213T023000Z
+UID:4944df6425c27ad1e84b25b9a67151eb8312025_12:07:54_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Friday Game Nights
+LOCATION:5601 Posvar, United States
+URL:https://experience.pitt.edu/rsvp?id=387495
+DESCRIPTION:Come to 5601 Posvar every Friday to play all kinds of games. We have a large collection, but you are always welcome to bring your own as well. Club favorites include Coup, Monopoly, Mario Kart, Smash Bros, Blood on the Clocktower, and many more!\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=387495
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250903T115743
+CREATED:20250903T120000
+SEQUENCE:1
+ORGANIZER;CN="ARTificial":https://experience.pitt.edu/artificial/
+CONTACT:https://experience.pitt.edu/artificial/rsvp_boot?id=387589#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:ARTIFICIAL
+CATEGORIES;X-CG-CATEGORY=event_type:Arts Program
+DTSTART:20251203T230000Z
+DTEND:20251204T010000Z
+UID:cfc963f6e68ee873e7c1a1be1c184abf932025_11:57:40_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Weekly Meetings (COPY)
+LOCATION: David Lawrence Hall Room 203
+URL:https://experience.pitt.edu/rsvp?id=387589
+DESCRIPTION:Come hangout and make art!\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=387589
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250903T115743
+CREATED:20250903T120000
+SEQUENCE:1
+ORGANIZER;CN="ARTificial":https://experience.pitt.edu/artificial/
+CONTACT:https://experience.pitt.edu/artificial/rsvp_boot?id=387590#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:ARTIFICIAL
+CATEGORIES;X-CG-CATEGORY=event_type:Arts Program
+DTSTART:20251210T230000Z
+DTEND:20251211T010000Z
+UID:5401f442f53c5472ee5b102d31f84b39932025_11:57:41_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Weekly Meetings (COPY)
+LOCATION: David Lawrence Hall Room 203
+URL:https://experience.pitt.edu/rsvp?id=387590
+DESCRIPTION:Come hangout and make art!\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=387590
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011145
+LAST-MODIFIED:20250911T201410
+CREATED:20250911T120000
+SEQUENCE:1
+ORGANIZER;CN="Minority Association of Pre-Medical Students":https://experience.pitt.edu/maps/
+CONTACT:https://experience.pitt.edu/maps/rsvp_boot?id=388000#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:MAPS
+CATEGORIES;X-CG-CATEGORY=event_type:Educational/Awareness
+CATEGORIES;X-CG-CATEGORY=event_tags:Academic
+DTSTART:20251204T000000Z
+DTEND:20251204T030000Z
+UID:1bfea0e1582fae7a0928d5aca3c4093d9112025_8:14:08_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:MAPS Study Sessions
+LOCATION: Hillman Library
+URL:https://experience.pitt.edu/rsvp?id=388000
+DESCRIPTION:Attedance\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=388000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011146
+LAST-MODIFIED:20250914T183205
+CREATED:20250914T120000
+SEQUENCE:1
+ORGANIZER;CN="Ignite : InterVarsity's Black Student Movement":https://experience.pitt.edu/igniteibsm/
+CONTACT:https://experience.pitt.edu/igniteibsm/rsvp_boot?id=388030#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:IGNITEIBSM
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+DTSTART:20251202T000000Z
+DTEND:20251202T013000Z
+UID:668cda7e86849a1194f0372794ed57119142025_6:32:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Bible Study
+LOCATION:TBD
+URL:https://experience.pitt.edu/rsvp?id=388030
+DESCRIPTION:Join us at 7 PM in WPU 542 for fellowship + the Word. 🙌📖\n\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=388030
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011146
+LAST-MODIFIED:20250917T201118
+CREATED:20250917T120000
+SEQUENCE:1
+ORGANIZER;CN="Off Campus Student Services":https://experience.pitt.edu/OCSS/
+CONTACT:https://experience.pitt.edu/OCSS/rsvp_boot?id=388196#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:OCSS
+CATEGORIES;X-CG-CATEGORY=event_type:Community Service
+CATEGORIES;X-CG-CATEGORY=event_tags:Civic Engagement
+DTSTART:20251205T153000Z
+DTEND:20251205T173000Z
+UID:28b2cd1060551c52e6ebc5d2da7828b39172025_8:11:17_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:West Oakland Trash Clean-Up 
+LOCATION: Trees Hall, We will meet in the lawn outside of the building, on the corner of Allequippa and Robinson.
+URL:https://experience.pitt.edu/rsvp?id=388196
+DESCRIPTION:Volunteers will pick up trash from the streets and sidewalks of West Oakland. Gloves, trash bags, and trash grabbers will be provided.\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=388196
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011146
+LAST-MODIFIED:20250919T154005
+CREATED:20250919T120000
+SEQUENCE:1
+ORGANIZER;CN="Off Campus Student Services":https://experience.pitt.edu/OCSS/
+CONTACT:https://experience.pitt.edu/OCSS/rsvp_boot?id=388282#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:OCSS
+CATEGORIES;X-CG-CATEGORY=event_type:Community Service
+CATEGORIES;X-CG-CATEGORY=event_tags:Civic Engagement,Sustainability,Community Service
+DTSTART:20251207T150000Z
+DTEND:20251207T170000Z
+UID:0e4319d2be92172e3a1e6b4036effc589192025_3:40:04_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:South Oakland Trash Clean Up 
+LOCATION: Zulema Parklet
+URL:https://experience.pitt.edu/rsvp?id=388282
+DESCRIPTION:Volunteers will pick up trash from the streets and sidewalks of South Oakland. Gloves, trash bags, and trash grabbers will be provided\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=388282
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011146
+LAST-MODIFIED:20250919T155335
+CREATED:20250919T120000
+SEQUENCE:1
+ORGANIZER;CN="Off Campus Student Services":https://experience.pitt.edu/OCSS/
+CONTACT:https://experience.pitt.edu/OCSS/rsvp_boot?id=388286#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:OCSS
+CATEGORIES;X-CG-CATEGORY=event_type:Community Service
+CATEGORIES;X-CG-CATEGORY=event_tags:Civic Engagement,Local Community,Community Service,Outdoors
+DTSTART:20251206T150000Z
+DTEND:20251206T170000Z
+UID:04e5e2617c609a78f46a704ff535649c9192025_3:53:33_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Oakcliffe Trash Clean-up 
+LOCATION: Craft Ave & Niagra St, Oakcliffe Community Playground
+URL:https://experience.pitt.edu/rsvp?id=388286
+DESCRIPTION:Volunteers will pick up trash from the streets and sidewalks of Oakcliffe. Gloves, trash bags, and trash grabbers will be provided.\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=388286
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011146
+LAST-MODIFIED:20250924T140434
+CREATED:20250924T120000
+SEQUENCE:1
+ORGANIZER;CN="Off Campus Student Services":https://experience.pitt.edu/OCSS/
+CONTACT:https://experience.pitt.edu/OCSS/rsvp_boot?id=388422#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:OCSS
+CATEGORIES;X-CG-CATEGORY=event_type:Community Service
+CATEGORIES;X-CG-CATEGORY=event_tags:Civic Engagement,Community Service,Sustainability,Environmental Justice
+DTSTART:20251207T150000Z
+DTEND:20251207T170000Z
+UID:e9ec26e48b704a6b47bbb564872fabac9242025_2:04:33_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Central Oakland Trash Clean-Up
+LOCATION: Zulema Parklet
+URL:https://experience.pitt.edu/rsvp?id=388422
+DESCRIPTION:Volunteers will pick up trash from the streets and sidewalks of Central Oakland. Gloves, trash bags, and trash grabbers will be provided.\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=388422
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011146
+LAST-MODIFIED:20250926T133217
+CREATED:20250926T120000
+SEQUENCE:1
+ORGANIZER;CN="Pitt Program Council":https://experience.pitt.edu/ppc/
+CONTACT:https://experience.pitt.edu/ppc/rsvp_boot?id=388486#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:PPC
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+DTSTART:20251202T000000Z
+DTEND:20251202T010000Z
+UID:abc9a22fe18b3ef28457e9f043cef55f9262025_1:32:16_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Arts Committee Weekly Meeting 
+LOCATION: William Pitt Union
+URL:https://experience.pitt.edu/rsvp?id=388486
+DESCRIPTION:Come to the Arts Committee and help PPC create amazing artistic experiences! From performances to workshops, your creativity can make campus events unforgettable.\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=388486
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011146
+LAST-MODIFIED:20251002T122559
+CREATED:20251002T120000
+SEQUENCE:6
+ORGANIZER;CN="Unwind: The Board Game Club":https://experience.pitt.edu/unwind/
+CONTACT:https://experience.pitt.edu/unwind/rsvp_boot?id=388608#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:UNWIND
+CATEGORIES;X-CG-CATEGORY=event_type:Meeting
+DTSTART:20251205T000000Z
+DTEND:20251205T040000Z
+UID:3d83c1a36a55a12692032e68a5af45131022025_12:25:42_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Unwind Club General Meeting 12/4
+LOCATION: Nordy's Lounge in the William Pitt Union Basement
+URL:https://experience.pitt.edu/rsvp?id=388608
+DESCRIPTION:The usual club meeting where we will have space and games available!\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=388608
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011146
+LAST-MODIFIED:20251106T183828
+CREATED:20251030T120000
+SEQUENCE:4
+ORGANIZER;CN="Graduate Organization for the Study of Europe and Central Asia":https://experience.pitt.edu/goseca/
+CONTACT:https://experience.pitt.edu/goseca/rsvp_boot?id=389258#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:GOSECA
+CATEGORIES;X-CG-CATEGORY=event_type:Academic
+CATEGORIES;X-CG-CATEGORY=event_tags:Academic,Career Development,Food
+DTSTART:20260320T130000Z
+DTEND:20260322T160000Z
+UID:61d05db90a285c7c9ee7cb66adeac3b010302025_9:03:44_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:REEESNe Conference 2026
+LOCATION:TBD
+URL:https://experience.pitt.edu/rsvp?id=389258
+DESCRIPTION:Join us for our 23rd Annual GOSECA conference hosted with REEES, ESC, and Yale Mcmillan Center. Applications due December 12th.\nInterested in Volunteering or learning more about the planning process? Follow the link below\nhttps://cglink.me/2kn/s1373\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389258
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011146
+LAST-MODIFIED:20251117T144351
+CREATED:20251031T120000
+SEQUENCE:2
+ORGANIZER;CN="Off Campus Student Services":https://experience.pitt.edu/OCSS/
+CONTACT:https://experience.pitt.edu/OCSS/rsvp_boot?id=389266#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:OCSS
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+CATEGORIES;X-CG-CATEGORY=event_tags:Commuter,Food
+DTSTART:20251203T154500Z
+DTEND:20251203T180000Z
+UID:f91e5b1a28f133f170122dc665e3815610312025_2:10:23_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Make Lunch with OCSS
+LOCATION: Bigelow Lawn
+URL:https://experience.pitt.edu/rsvp?id=389266
+DESCRIPTION:Giving out free lunch to commuter students\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389266
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011146
+LAST-MODIFIED:20251103T015658
+CREATED:20251103T120000
+SEQUENCE:75
+ORGANIZER;CN="Paintball Club at Pitt":https://experience.pitt.edu/paintball/
+CONTACT:https://experience.pitt.edu/paintball/rsvp_boot?id=389291#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:PAINTBALL
+CATEGORIES;X-CG-CATEGORY=event_type:Athletic/Sports
+DTSTART:20251206T180000Z
+DTEND:20251206T210000Z
+UID:1a68454b0e5b0f0edb8cba77afc435ce1132025_1:54:03_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:"Winterball" Final Paintball Event
+LOCATION: Pittsburgh Paintball Park
+URL:https://experience.pitt.edu/rsvp?id=389291
+DESCRIPTION:Sign the waiver before going, even if you have been before!\nhttps://sportscarnival.com/clubs/pittsburgh_paintball_park/forms/sign_waiver\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389291
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011147
+LAST-MODIFIED:20251114T142124
+CREATED:20251110T120000
+SEQUENCE:5
+ORGANIZER;CN="Pitt Program Council":https://experience.pitt.edu/ppc/
+CONTACT:https://experience.pitt.edu/ppc/rsvp_boot?id=389439#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:PPC
+CATEGORIES;X-CG-CATEGORY=event_type:Social
+DTSTART:20251204T230000Z
+DTEND:20251205T023000Z
+UID:db8dd968efefd040941f491e597858eb11102025_10:29:32_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Zoo La-La Lights! A Trip to the Pittsburgh Zoo
+LOCATION: Pittsburgh Zoo
+URL:https://experience.pitt.edu/rsvp?id=389439
+DESCRIPTION:Walk through the Pittsburgh Zoo's magical winter wonderland that features millions of lights, lanterns, and beloved holiday characters. \nA ticket to this event included travel to and from the Pittsburgh Zoo and required for students to take. The bus departs from Nordenberg Hall at 5:30. Please sign up for this event using the link in our bio! Tickets are $5 (refundable if you keep your receipt)!\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389439
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011147
+LAST-MODIFIED:20251111T090903
+CREATED:20251111T120000
+SEQUENCE:6
+ORGANIZER;CN="Pitt Alumni Student Programs":https://experience.pitt.edu/pasp/
+CONTACT:https://experience.pitt.edu/pasp/rsvp_boot?id=389457#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:PASP
+CATEGORIES;X-CG-CATEGORY=event_type:Pitt Alumni Student Programs
+CATEGORIES;X-CG-CATEGORY=event_tags:Alumni,Pitt Pride
+DTSTART:20251202T170000Z
+DTEND:20251203T180000Z
+UID:d6034540139970a7e80692057e191eec11112025_9:03:50_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:PASN Destress Before the Test
+LOCATION: TBD
+URL:https://experience.pitt.edu/rsvp?id=389457
+DESCRIPTION:Take a breather before finals! Drop in to grab a snack or drink, pick up a small encouragement gift, and give yourself a moment to relax. It’s a calm, come-and-go space to reset your mind and connect with PASN Council members and other students before the big week ahead. No pressure, just good vibes.\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389457
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011147
+LAST-MODIFIED:20251111T093219
+CREATED:20251111T120000
+SEQUENCE:5
+ORGANIZER;CN="Pitt Alumni Student Programs":https://experience.pitt.edu/pasp/
+CONTACT:https://experience.pitt.edu/pasp/rsvp_boot?id=389458#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:PASP
+CATEGORIES;X-CG-CATEGORY=event_type:Pitt Alumni Student Programs
+CATEGORIES;X-CG-CATEGORY=event_tags:Alumni,Pitt Pride
+DTSTART:20260121T230000Z
+DTEND:20260122T010000Z
+UID:f1c18f71d5111b43fe3bf22c3817454a11112025_9:30:25_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Pitt Mix
+LOCATION: Alumni Hall Connolly Ballroom
+URL:https://experience.pitt.edu/rsvp?id=389458
+DESCRIPTION:This event welcomes both new and returning Pitt students in a relaxed environment focused on connection and belonging. Students will have the opportunity to make friends, talk with alumni, and learn about ways to get involved at Pitt. No membership is required to attend. \n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389458
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011147
+LAST-MODIFIED:20251111T093219
+CREATED:20251111T120000
+SEQUENCE:5
+ORGANIZER;CN="Pitt Alumni Student Programs":https://experience.pitt.edu/pasp/
+CONTACT:https://experience.pitt.edu/pasp/rsvp_boot?id=389458#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:PASP
+CATEGORIES;X-CG-CATEGORY=event_type:Pitt Alumni Student Programs
+CATEGORIES;X-CG-CATEGORY=event_tags:Alumni,Pitt Pride
+DTSTART:20260121T230000Z
+DTEND:20260122T010000Z
+UID:f1c18f71d5111b43fe3bf22c3817454a11112025_9:30:25_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Pitt Mix
+LOCATION: Alumni Hall Connolly Ballroom
+URL:https://experience.pitt.edu/rsvp?id=389458
+DESCRIPTION:This event welcomes both new and returning Pitt students in a relaxed environment focused on connection and belonging. Students will have the opportunity to make friends, talk with alumni, and learn about ways to get involved at Pitt. No membership is required to attend. \n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389458
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011147
+LAST-MODIFIED:20251112T185439
+CREATED:20251112T120000
+SEQUENCE:2
+ORGANIZER;CN="Pitt Legal Income Sharing Foundation":https://experience.pitt.edu/plisf/
+CONTACT:https://experience.pitt.edu/plisf/rsvp_boot?id=389495#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:PLISF
+CATEGORIES;X-CG-CATEGORY=event_type:Fundraiser
+CATEGORIES;X-CG-CATEGORY=event_tags:Fundraiser,Food,Club Sponsored,Career Development
+DTSTART:20260129T230000Z
+DTEND:20260130T030000Z
+UID:9a794e58ce30a9d38d3399155e34fc4c11122025_6:46:01_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Pitt Law Gala-The PLISF Benefit: 39th Annual Auction
+LOCATION: University Club
+URL:https://experience.pitt.edu/rsvp?id=389495
+DESCRIPTION:a night of food, drinks, networking, and live/silent auctions with the Pitt Students, Faculty, Judges, Government Officials, and the Pittsburgh Legal Community.\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389495
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011147
+LAST-MODIFIED:20251113T163813
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389512#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20251208T000000Z
+DTEND:20251208T011500Z
+UID:b51416e5cc81fef7a553013921ca92b611132025_4:37:56_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389512
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389512
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011147
+LAST-MODIFIED:20251113T163813
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389513#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20251215T000000Z
+DTEND:20251215T011500Z
+UID:6034e78d797f8d544c045a91ca213d5011132025_4:37:57_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389513
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389513
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011147
+LAST-MODIFIED:20251113T163813
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389514#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260112T000000Z
+DTEND:20260112T011500Z
+UID:5ca0cfa0398ec19bd94d26f2bda1746e11132025_4:37:58_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389514
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389514
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163813
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389515#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260119T000000Z
+DTEND:20260119T011500Z
+UID:c4b59feaa1e8fc645df3936157e3be8a11132025_4:37:59_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389515
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389515
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163813
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389516#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260126T000000Z
+DTEND:20260126T011500Z
+UID:9e102212f68f48034d6d1ca16475a38d11132025_4:38:00_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389516
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389516
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163813
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389517#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260202T000000Z
+DTEND:20260202T011500Z
+UID:3e66cc68d47461e88eba0b729450a08611132025_4:38:01_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389517
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389517
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163813
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389518#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260209T000000Z
+DTEND:20260209T011500Z
+UID:cb47e79b66277a1fb60dcd14bf35150111132025_4:38:02_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389518
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389518
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163813
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389519#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260216T000000Z
+DTEND:20260216T011500Z
+UID:73aca252bc916d18b215ce6a149fcf7011132025_4:38:03_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389519
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389519
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163814
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389520#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260223T000000Z
+DTEND:20260223T011500Z
+UID:e68ba29fd42d42efb068001b8b43496d11132025_4:38:04_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389520
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389520
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163814
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389521#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260302T000000Z
+DTEND:20260302T011500Z
+UID:ad832fe12e1468df091ac2c52397cdaa11132025_4:38:05_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389521
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389521
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163814
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389522#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260308T230000Z
+DTEND:20260309T001500Z
+UID:1194f48cfcbc3abc2c30e9ed3aaaf12611132025_4:38:06_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389522
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389522
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163814
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389523#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260315T230000Z
+DTEND:20260316T001500Z
+UID:2d5cd6ab7b9ce9210a90029f848b49be11132025_4:38:07_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389523
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389523
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163814
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389524#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260322T230000Z
+DTEND:20260323T001500Z
+UID:2d50e08801087b020cb4bd640cf501ff11132025_4:38:08_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389524
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389524
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163814
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389525#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260329T230000Z
+DTEND:20260330T001500Z
+UID:7882a540b3a542825a9e822d1ecf6dcc11132025_4:38:09_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389525
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389525
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163814
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389526#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260405T230000Z
+DTEND:20260406T001500Z
+UID:91a1bda82a6a8de95344e0ca6934940211132025_4:38:09_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389526
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389526
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163814
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389527#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260412T230000Z
+DTEND:20260413T001500Z
+UID:4c10db6a8288ad2f8e2d85862f43fdfd11132025_4:38:10_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389527
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389527
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163814
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389528#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260419T230000Z
+DTEND:20260420T001500Z
+UID:5475265acbcfd51dc8a2429481c46cba11132025_4:38:11_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389528
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389528
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011148
+LAST-MODIFIED:20251113T163814
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389529#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Spiritual
+CATEGORIES;X-CG-CATEGORY=event_tags:Social,Academic,Food
+DTSTART:20260426T230000Z
+DTEND:20260427T001500Z
+UID:dd03194610e9570f51cd980ee593390011132025_4:38:12_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Newman Night
+LOCATION:St. Pauls Cathedral Basement
+URL:https://experience.pitt.edu/rsvp?id=389529
+DESCRIPTION:Come join the Catholic Newman Club at Pitt for Weekly Pizza, Catholic Speakers, and Fellowship\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389529
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011149
+LAST-MODIFIED:20251113T224250
+CREATED:20251113T120000
+SEQUENCE:1
+ORGANIZER;CN="Catholic Newman Club":https://experience.pitt.edu/catholicnewman/
+CONTACT:https://experience.pitt.edu/catholicnewman/rsvp_boot?id=389556#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:CATHOLICNEWMAN
+CATEGORIES;X-CG-CATEGORY=event_type:Meeting
+DTSTART:20310815T170000Z
+DTEND:20310815T180000Z
+UID:7778bda1aaef3ed0008aae31d947365511132025_10:40:54_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Event for Guest Registration
+LOCATION: TBD
+URL:https://experience.pitt.edu/rsvp?id=389556
+DESCRIPTION:Event\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389556
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011149
+LAST-MODIFIED:20251116T214955
+CREATED:20251116T120000
+SEQUENCE:1
+ORGANIZER;CN="Fitness and Bodybuilding Club at Pitt":https://experience.pitt.edu/bodybuilding/
+CONTACT:https://experience.pitt.edu/bodybuilding/rsvp_boot?id=389598#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:BODYBUILDING
+CATEGORIES;X-CG-CATEGORY=event_type:Athletic/Sports
+CATEGORIES;X-CG-CATEGORY=event_tags:Arts,Athletics
+DTSTART:20260221T190000Z
+DTEND:20260221T210000Z
+UID:6d9b1401a14bf8ab189b79611cc21e1511162025_9:44:46_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Pittsburgh Collegiate Classic
+LOCATION: TBD
+URL:https://experience.pitt.edu/rsvp?id=389598
+DESCRIPTION:The third annual Fitness & Bodybuilding Club Show! Competitors in various divisions with local IFBB Pro Judges.\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389598
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011149
+LAST-MODIFIED:20251118T103838
+CREATED:20251118T120000
+SEQUENCE:1
+ORGANIZER;CN="Fitness and Bodybuilding Club at Pitt":https://experience.pitt.edu/bodybuilding/
+CONTACT:https://experience.pitt.edu/bodybuilding/rsvp_boot?id=389617#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:BODYBUILDING
+CATEGORIES;X-CG-CATEGORY=event_type:Athletic/Sports
+CATEGORIES;X-CG-CATEGORY=event_tags:Athletics,Health and Wellness
+DTSTART:20251206T170000Z
+DTEND:20251206T180000Z
+UID:95d5ed948c85c44358f9a710b79f379211182025_10:35:57_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Stretching and Mobility Class
+LOCATION: RWC (room TBA)
+URL:https://experience.pitt.edu/rsvp?id=389617
+DESCRIPTION:Stretching and Mobility Class with Ella and Neha\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389617
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011149
+LAST-MODIFIED:20251118T103939
+CREATED:20251118T120000
+SEQUENCE:4
+ORGANIZER;CN="Fitness and Bodybuilding Club at Pitt":https://experience.pitt.edu/bodybuilding/
+CONTACT:https://experience.pitt.edu/bodybuilding/rsvp_boot?id=389618#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:BODYBUILDING
+CATEGORIES;X-CG-CATEGORY=event_type:Athletic/Sports
+CATEGORIES;X-CG-CATEGORY=event_tags:Athletics
+DTSTART:20251207T210000Z
+DTEND:20251207T220000Z
+UID:79a138b0574c49ff5a901a939ba89e2211182025_10:38:58_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Posing Session (RWC)
+LOCATION: RWC Room 819
+URL:https://experience.pitt.edu/rsvp?id=389618
+DESCRIPTION:Come learn or practice your posing. Men's and women's instruction will be available. No experience or knowledge necessary. \n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389618
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011149
+LAST-MODIFIED:20251118T104026
+CREATED:20251118T120000
+SEQUENCE:6
+ORGANIZER;CN="Fitness and Bodybuilding Club at Pitt":https://experience.pitt.edu/bodybuilding/
+CONTACT:https://experience.pitt.edu/bodybuilding/rsvp_boot?id=389619#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:BODYBUILDING
+CATEGORIES;X-CG-CATEGORY=event_type:Athletic/Sports
+CATEGORIES;X-CG-CATEGORY=event_tags:Athletics,Team Building,Well-Being
+DTSTART:20251207T190000Z
+DTEND:20251207T210000Z
+UID:1f842138c168844323238d35f3be3e3e11182025_10:39:58_AM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Group Training (RWC)
+LOCATION: Recreation and Wellness Center (RWC)
+URL:https://experience.pitt.edu/rsvp?id=389619
+DESCRIPTION:A way to meet club members and be there at the same time. You could do your own workout or have our training/posing directors help you out. Meet at 2pm on floor 8 if you want to meet the training/posing director.\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389619
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251201T011149
+LAST-MODIFIED:20251124T131232
+CREATED:20251119T120000
+SEQUENCE:6
+ORGANIZER;CN="Collegiate Panhellenic Association":https://experience.pitt.edu/panhellenic/
+CONTACT:https://experience.pitt.edu/panhellenic/rsvp_boot?id=389661#event_host
+CATEGORIES;X-CG-CATEGORY=club_acronym:PANHELLENIC
+CATEGORIES;X-CG-CATEGORY=event_type:Recruitment
+DTSTART:20251205T020000Z
+DTEND:20251205T040000Z
+UID:41a6e2a545410911e1d023fd9902ef9511192025_7:24:06_PM@campusgroups.com
+SUMMARY;ENCODING=QUOTED-PRINTABLE:PNM Movie Night
+LOCATION: WPU Assembly Room
+URL:https://experience.pitt.edu/rsvp?id=389661
+DESCRIPTION:Join us on December 4th at 9 PM for a good old-fashioned movie night! We’ll have popcorn and light snacks ready for you. Bring your favorite blanket and pillow — we’ll be spreading out on the freshly cleaned floor instead of using chairs for that comfy, cozy feel.\n---\nEvent Details: https://experience.pitt.edu/rsvp?id=389661
+END:VEVENT
+END:VCALENDAR
