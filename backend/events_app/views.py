@@ -1,18 +1,27 @@
 from django.http import JsonResponse
 from django.shortcuts import render
+from django.db.models import Q
+from .models import Event
 
-from .models import Event   # <-- NEW: import your model
 
-
-def load_events():
-    """Load events from the database with basic error handling."""
-
+def load_events(org=None, category=None, search=None):
     qs = Event.objects.select_related("organization").order_by("date")
 
-    # Empty DB – mimic your previous error style
-    if not qs.exists():
+    if org:
+        qs = qs.filter(organization__name__icontains=org)
+
+    if category:
+        qs = qs.filter(category__icontains=category)
+
+    if search:
+        qs = qs.filter(
+            Q(name__icontains=search) |
+            Q(organization__name__icontains=search)
+        )
+
+    if not qs.exists() and not (org or category or search):
         return {
-            "error": "No events available in the database. Did you run the import?",
+            "error": "No events available in the database.",
             "events": [],
         }
 
@@ -23,7 +32,6 @@ def load_events():
             "name": event.name,
             "organization": event.organization.name if hasattr(event, "organization") else "",
             "location": event.location,
-            # Match your JSON datetime format "2025-09-10T18:00:00"
             "date": event.date.isoformat(timespec="seconds") if event.date else None,
             "category": event.category,
         })
@@ -32,16 +40,17 @@ def load_events():
 
 
 def events_api(request):
-    """Return JSON API response, now backed by the DB."""
-    result = load_events()
+    org = request.GET.get("org")
+    category = request.GET.get("category")
+    search = request.GET.get("q")
+
+    result = load_events(org=org, category=category, search=search)
 
     if "error" in result and not result["events"]:
-        # Keep your old pattern: errors → 500 with a message
         response = JsonResponse(result, status=500)
     else:
         response = JsonResponse(result["events"], safe=False)
 
-    # CORS headers as before
     response["Access-Control-Allow-Origin"] = "*"
     response["Access-Control-Allow-Methods"] = "GET, OPTIONS"
     response["Vary"] = "Origin"
@@ -50,7 +59,6 @@ def events_api(request):
 
 
 def event_list_page(request):
-    """Render template for the HTML page."""
     result = load_events()
     events = result.get("events", [])
     error = result.get("error")
