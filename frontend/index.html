@@ -12,7 +12,55 @@
     <p id="status">Loading events…</p>
     <ul id="events"></ul>
   </div>
+
   <script>
+
+    function icsUrl(event) {
+      const d = new Date(event.date);
+      const pad = (n) => String(n).padStart(2, "0");
+
+      const dt =
+        d.getUTCFullYear().toString() +
+        pad(d.getUTCMonth() + 1) +
+        pad(d.getUTCDate()) +
+        "T" +
+        pad(d.getUTCHours()) +
+        pad(d.getUTCMinutes()) +
+        pad(d.getUTCSeconds()) +
+        "Z";
+
+      const summary = event.name || "Pitt Club Event";
+      const location = event.location || "";
+      const description = event.organization
+        ? `Hosted by ${event.organization}`
+        : "";
+
+      const ics = `
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+DTSTART:${dt}
+SUMMARY:${summary}
+LOCATION:${location}
+DESCRIPTION:${description}
+END:VEVENT
+END:VCALENDAR`;
+
+      return URL.createObjectURL(
+        new Blob([ics], { type: "text/calendar" })
+      );
+    }
+
+    function fileName(str) {
+      return (
+        (str || "event")
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, "-") + ".ics"
+      );
+    }
+
+    // old code
+
     async function fetchFromOrigins(origins) {
       for (const origin of origins) {
         try {
@@ -23,32 +71,36 @@
           // try next origin
         }
       }
-      throw new Error('No backend origins responded.');
+      throw new Error("No backend origins responded.");
     }
 
     async function loadEvents() {
-      const status = document.getElementById('status');
-      const list = document.getElementById('events');
+      const status = document.getElementById("status");
+      const list = document.getElementById("events");
       const origins = [];
 
-      if (window.location.origin && window.location.origin.startsWith('http')) {
+      if (window.location.origin && window.location.origin.startsWith("http")) {
         origins.push(window.location.origin);
       }
-      origins.push('http://127.0.0.1:8000', 'http://localhost:8000');
+      origins.push("http://127.0.0.1:8000", "http://localhost:8000");
 
       try {
         const events = await fetchFromOrigins(origins);
         if (!events.length) {
-          status.textContent = 'No events found.';
+          status.textContent = "No events found.";
           return;
         }
-        status.textContent = `${events.length} event${events.length === 1 ? '' : 's'} available:`;
+        status.textContent = `${events.length} event${
+          events.length === 1 ? "" : "s"
+        } available:`;
+
         events.forEach((event) => {
           const formattedTime = new Intl.DateTimeFormat([], {
-            dateStyle: 'medium',
-            timeStyle: 'short',
+            dateStyle: "medium",
+            timeStyle: "short",
           }).format(new Date(event.date));
-          const item = document.createElement('li');
+
+          const item = document.createElement("li");
           item.innerHTML = `
             <details>
               <summary>
@@ -59,6 +111,11 @@
                 <p><strong>Organization:</strong> ${event.organization}</p>
                 <p><strong>Location:</strong> ${event.location}</p>
                 <p><strong>Category:</strong> ${event.category}</p>
+                <p>
+                  <a href="${icsUrl(event)}" download="${fileName(event.name)}">
+                    Add to calendar
+                  </a>
+                </p>
               </div>
             </details>
           `;
@@ -66,7 +123,8 @@
         });
       } catch (error) {
         console.error(error);
-        status.textContent = 'Unable to load events. Make sure the Django server is running on 127.0.0.1:8000 or localhost:8000.';
+        status.textContent =
+          "Unable to load events. Make sure the Django server is running on 127.0.0.1:8000 or localhost:8000.";
       }
     }
 
