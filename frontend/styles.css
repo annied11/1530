@@ -29,6 +29,38 @@ h1 {
   color: #00205b;
 }
 
+.controls {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.controls label {
+  display: grid;
+  gap: 0.4rem;
+  font-weight: 600;
+  color: #1f2a44;
+  font-size: 0.95rem;
+}
+
+.controls input,
+.controls select {
+  padding: 0.65rem 0.75rem;
+  border: 1px solid #dbe3ff;
+  border-radius: 10px;
+  font-size: 1rem;
+  background: #f9fbff;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.controls input:focus,
+.controls select:focus {
+  outline: none;
+  border-color: #8db3ff;
+  box-shadow: 0 0 0 3px rgba(141, 179, 255, 0.2);
+}
+
 #status {
   font-size: 1rem;
   color: #47507a;
